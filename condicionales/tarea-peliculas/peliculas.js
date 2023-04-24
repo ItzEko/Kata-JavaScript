@@ -29,11 +29,3 @@ switch (nombre) {
     'La fecha de publicación es : '+YourName[2]);
         break;
 }
-switch (key) {
-    case value:
-        
-        break;
-
-    default:
-        break;
-}

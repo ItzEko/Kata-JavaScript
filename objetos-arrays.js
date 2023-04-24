@@ -60,6 +60,9 @@ var data = [45, 67, 12, { qualifications: [10, 9 , 0] }, false, 23.77 ]
 // imprimir la segunda calificacion
 console.log(data[3].qualifications[1]);
 // imprimir la penultima posicion del array de data
+console.log(data[4]);
 // imprimir la marca del celular
+console.log(celular.company.name);
 // imprimir el ultimo comentario del video
+console.log(video.comments[2]);
 

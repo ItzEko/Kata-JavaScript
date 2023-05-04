@@ -1,0 +1,9 @@
+body{
+    /* background-color: rgb(35, 194, 159); */
+    display: grid;
+}
+
+button{
+    text-align: center;
+    width: 100px;
+}
